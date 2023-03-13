@@ -3,17 +3,19 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "rxjs": "5.4.2",
-    "core-js": "2.4.1",
-    "zone.js": "0.8.12",
-    "@angular/core": "4.3.6",
-    "@angular/http": "4.3.6",
-    "@angular/forms": "4.3.6",
     "@angular/common": "4.3.6",
-    "@angular/router": "4.3.6",
     "@angular/compiler": "4.3.6",
+    "@angular/core": "4.3.6",
+    "@angular/forms": "4.3.6",
+    "@angular/http": "4.3.6",
     "@angular/platform-browser": "4.3.6",
-    "@angular/platform-browser-dynamic": "4.3.6"
+    "@angular/platform-browser-dynamic": "4.3.6",
+    "@angular/router": "4.3.6",
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "core-js": "2.4.1",
+    "rxjs": "5.4.2",
+    "zone.js": "0.8.12"
   },
   "scripts": {
     "ng": "ng",
